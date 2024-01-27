@@ -1,2 +1,2 @@
-# hakd
-HackDAO $HAKD
+# HAKD
+HackDAO $HAKD token
