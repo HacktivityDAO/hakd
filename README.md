@@ -1,2 +1,2 @@
 # HAKD
-HackDAO $HAKD token
+HackDAO $HAKD Solana (SPL-20) token
